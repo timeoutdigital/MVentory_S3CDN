@@ -11,7 +11,11 @@
             [
                 "code/",
                 "app/code/community/MVentory_CDN"
-            ]
+            ],
+	    [
+		"utils/",
+		"utils/"
+	    ]
         ]
     }
 }

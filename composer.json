@@ -1,0 +1,17 @@
+{
+    "name": "mventory/mventory_s3cdn",
+    "type": "magento-module",
+    "description": "AWS S3 Plugin",
+    "license": ["GPL"],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "map": [
+            [
+                "code/",
+                "app/code/communuty/MVentory_CDN"
+            ]
+        ]
+    }
+}
